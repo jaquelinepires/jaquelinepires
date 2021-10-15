@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Jaqueline Pires 👋
 
-<!--
-**jaquelinepires/jaquelinepires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma desenvolvedora junior em busca de uma grande oportunidade de colocar meus talentos em prática. Sou apaixonada pelas melhores tecnologias de desenvolvimento web. Tenho me especializado em HTML, CSS, JavaScript, React e diversas SoftSkills. Sou aluna do Bootcamp Ignite da Rocketseat, onde aprendi na pratica as mais modernas tecnologias de desenvolvimento web. Tenho bom trabalho em equipe com boas habilidades de comunicação, flexível e pronto para trabalhar com times apaixonados de designers e desenvolvedores.
 
-Here are some ideas to get you started:
+:woman_technologist: <strong>Front-end Software Engineer</strong><br>
+:mortar_board: <strong>Graduanda em Analise e Desenvolvimento de Sistemas - Estácio</strong><br>
+:computer: <strong>Veja meu Linkedin<strong>: [JAQUELINE PIRES](https://www.linkedin.com/in/jaqueline-pires-965206203/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" >
+
+![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=jaquelinepires&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinepires&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+</div>
