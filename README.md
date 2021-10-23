@@ -1,4 +1,4 @@
-### Hi, I'm Jaqueline Pires 👋
+### Hi, I'm Jaqueline 👋
 
 Sou uma desenvolvedora junior em busca de uma grande oportunidade de colocar meus talentos em prática. Sou apaixonada pelas melhores tecnologias de desenvolvimento web. Tenho me especializado em HTML, CSS, JavaScript, React e diversas SoftSkills. Sou aluna do Bootcamp Ignite da Rocketseat, onde aprendi na pratica as mais modernas tecnologias de desenvolvimento web. Tenho bom trabalho em equipe com boas habilidades de comunicação, flexível e pronto para trabalhar com times apaixonados de designers e desenvolvedores.
 
