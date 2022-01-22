@@ -1,6 +1,6 @@
 ### Hi, I'm Jaqueline 👋
 
-- 🔭 Atualmente buscando uma oportunidade como <strong>Frontend Developer</strong>, Tenho me especializado em HTML, CSS, JavaScript, React e diversas SoftSkills.
+- 🔭 Sou uma Desenvolvedora Apaixonada pelas melhores tecnologias de desenvolvimento web e mobile. Tenho experiência com projetos usando JavaScript, Typescript, ReactJS e React Native.
 - :computer: Front-end Software Engineer<br>
 - :mortar_board: Graduanda em Analise e Desenvolvimento de Sistemas - Universidade Estácio de Sá<br>
 
