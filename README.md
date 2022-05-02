@@ -1,6 +1,6 @@
 ### Hi, I'm Jaqueline 👋
 
-- 🔭 Desenvolvedora Front-end, tenho experiência com projetos usando JavaScript, Typescript, ReactJS, React Native, HTML, CSS.
+- 🔭 Desenvolvedora Front-end, tenho experiência com projetos usando JavaScript, Typescript, ReactJS, React Native, HTML, SASS, Tailwind.
 - :mortar_board: Graduanda em Analise e Desenvolvimento de Sistemas - Universidade Estácio de Sá<br>
 - 👯 Contate-me no email: piresjaqueline17@gmail.com
 
