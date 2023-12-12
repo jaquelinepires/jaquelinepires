@@ -1,7 +1,7 @@
 ### Hi, I'm Jaqueline 👋
 
 - 🔭 Front-end Developer com foco na criação de experiências web e mobile intuitivas e eficientes. Possui experiência crescente no desenvolvimento de aplicativos com ReactJS, Typescript, NextJS e React Native. Adepto dos fundamentos do lado do servidor com NodeJS e hábil na utilização do Firebase como uma solução de backend como serviço (BaaS).
-- :mortar_board: Graduanda em Analise e Desenvolvimento de Sistemas - Universidade Estácio de Sá<br>
+- :mortar_board: Analise e Desenvolvimento de Sistemas - Universidade Estácio de Sá<br>
 - 👯 Contate-me no email: piresjaqueline17@gmail.com
 
 
